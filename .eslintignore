@@ -1,0 +1,10 @@
+.DS_Store
+*.local
+dist
+node_modules
+node_modules/*
+pnpm-lock.yaml
+templates
+*.typegen.ts
+*.types.ts
+*.component.tsx
